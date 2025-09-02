@@ -1,0 +1,17 @@
+# Core
+
+pandas
+
+# NLP / Embeddings
+
+# Vector DB
+
+# PPTX parsing
+python-pptx==0.6.21
+
+# Utils
+tqdm
+
+google-generativeai
+
+pillow

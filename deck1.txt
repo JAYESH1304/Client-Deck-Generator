@@ -1,0 +1,232 @@
+--- Slide %s --- 1
+%s Aideo Technologies
+AI Pod Approach
+June 2024
+@2023 AuxoAI – Confidential and Proprietary
+--- Slide %s --- 2
+
+%s Our Understanding
+Aideo helps providers automate medical coding by analysing physician notes in EHRs to find relevant evidence for submitting claims with specific codes (e.g., ICD, CPT, MIPS, LONIC)
+Aideo gets paid by providers for successful coding of the codes
+Currently Aideo products are well recognized and used by multiple clients for specific out-patient services / specialties  
+Aideo has plans to expand their offerings to other outpatient disciplines and to inpatient services
+Immediate Objectives
+Help Aideo expand their product offerings to inpatient services
+Help Aideo improve the coding accuracy for outpatient services such as Radiology
+Help Aideo in architecting the solution / product into a robust and scalable solution and offering to Aideo’s clients      
+--- Slide %s --- 3
+
+%s With knowledge of healthcare codes, AI and product development together in one pod, we can help accelerate Aideo’s journey
+Expected Pod Outcomes
+Faster time to market for Inpatient auto coding capability
+Enhance radiology auto coding capability
+Continuous business involvement to ensure higher value, adoption and compliance
+Development of scalable and flexible products through use of architectural best practices and enabling features incrementally
+Product Lead
+Healthcare Claims & Codes Expert (e.g., ICD, CPT, HCPCS, Revenue codes, Modifiers)
+Business Analysts
+Healthcare Experience
+Product / Platform Engineering
+Platform / Product Architects
+Data Architects
+AI / ML Ops Engineers
+Data Engineers
+AI / ML Expertise
+Data Scientists
+AI / ML Practitioners
+Gen AI Engineers
+AI Governance Specialists
+Agile Pod
+HealthCare
+Experience
+AI / ML
+Engineering
+--- Slide %s --- 4
+
+%s AI Autocoding Pod Charter:
+objectives, guiding principles, deliverables and team.
+To develop AI-based autocoding solutions for prioritized inpatient departments and enhance the autocoding accuracy of Radiology departments.
+To automate medical coding process, ensuring accurate coding practices while reducing administrative burden on healthcare professionals
+POD OBJECTIVE
+Develop specialized models for coding prioritized inpatient department claims leveraging GenAI and NLP models to accurately determine appropriate ICD / CPT codes to document diagnosis and procedures
+Develop specialized models for coding Radiology claims leveraging GenAI, NLP and Image Analytics models to accurately determine appropriate ICD / CPT / HCPCS codes to document diagnosis and procedures
+Implement intelligent coding assistance features, such as code suggestions, code validation, and coding guidelines, to support and enhance the coding process for healthcare professionals.
+KEY EPICS / FEATURES
+Ensure the highest levels of accuracy and compliance with industry standards, coding guidelines, and regulatory requirements.
+Prioritize user experience by co-designing and co-developing with end users and SMEs
+Ensure data privacy and security to protect PHI data and comply with HIPAA regulations
+Design scalable and flexible solutions, allowing for easy integration with existing systems / workflows
+Encourage end-user feedback and monitor model performance to enhance effectiveness.
+GUIDING PRINCIPLES
+AI POD TEAM (Aideo + AuxoAI)
+Tech SMEs
+Architect
+ML / LLM Ops Engineer
+Governance & Responsible AI SME
+Business Representation
+Business Product Owner
+Medical Coding SMEs
+Tech Team
+Scrum Master
+Technical Pod Lead
+AI Engineer 1 (ML, NLP, GenAI)
+AI Engineer 2 (ML, NLP, GenAI)
+Data Engineer
+MEETING CADENCE
+Meeting Title
+Frequency
+Duration
+Objectives
+Daily Stand-up
+Daily
+15 min
+Discuss progress, blockers, and priorities for the day.
+Sprint Planning
+Every 2 wks.
+1 hr
+Plan and prioritize tasks for the upcoming sprint.
+Sprint Retrospective
+Every 2 wks.
+1 hr
+Reflect on previous sprints and work on improvements.
+Leadership Review
+Every 2/4 wks.
+30 min
+Review progress, risks and align on priorities.
+--- Slide %s --- 5
+
+%s Design Sprints
+Development Sprints
+Refinement Sprints
+Sprint
+Sprint
+Sprint
+Activities / Deliverables
+Each sprint can span across 2-4 weeks depending on scope of the copilot
+Delivery Model
+User-persona process-map and decision flow
+Business case, epics and features
+AI model workflow design and architecture
+Guardrails, Governance, Security and Regulatory implications
+Data identification & procurement
+Model shortlisting
+Feature development
+Model training, iterations and validation
+Model evaluations
+Model selection and improvements
+Model deployment and integration
+Model monitoring
+User feedback
+Change Management & Knowledge Transfer
+--- Slide %s --- 6
+
+%s Our Team – Pod Lead & Health Care Expert Profiles (1/4)
+MAZHAR CHAUDHARI
+<text>
+SATISH TAMMINENI
+16+ years of experience in building analytics capabilities
+Helped healthcare clients in building analytical capabilities across medical cost, value based care, claims, HEDIS / quality ratings, prior auth, provider supply chain, etc.
+Led project related to analytics transformation, delivery model redesign, cloud migration and analytics command centers    
+Led teams to build multiple AI / ML models such as high-cost member prediction, readmission prediction, HEDIS care gap closure prediction, medical policy benchmarking (NLP), Post call satisfaction estimation
+Led the development of a comprehensive Medical Cost Trend Analytics framework that grouped ICD, CPT, HCPCS, Revenue Codes, NDCs and GPIs into specific type of services that can be analyzed to identify emerging cost and utilization trends
+Currently helping a Blue plan enable GenAI solutions to help
+a sales agent answer member questions accurately and timely through an agent assist copilot
+a care agent build post call summary (key issues, care path discussed and follow up actions) by analyzing call transcript  
+Helping a provider build prior auth. (PA) nurse copilot to streamline and automate nurses’ workflow to document all the forms, letter of medical necessity and supporting documents with an objective to increase PA approval rate, timeliness and reduce nurses’ admin work-load
+--- Slide %s --- 7
+
+%s Our Team – Pod Lead & Health Care Expert Profiles (2/4)
+PRERNA SHARMA
+11 years of experience helping healthcare clients in Data, Analytics and AI strategy, roadmap and enablement
+Led data and analytics consulting projects for payor clients in areas such as claims analytics, care management, medical cost analytics, member profiling, STAR rating and analytics strategy
+Helped a payor with a competitive intelligence tool to identify gaps in policy by using NLP to extract codes and coverages in the policy and benchmark with competitor policies
+Led provider consulting engagements in areas of market entry strategies, provider star ratings, patient throughput analytics, procurement and supply chain analytics
+Helped a provider chain identify potential cost savings opportunities of ~$40 M in areas of pharmacy and medical supplies  
+Leading multiple GenAI projects for healthcare clients
+Prior authorization copilot for a large US health system to enable intelligent automation of the prior authorization       
+Automated provider operations workflow using AI and gen AI to enable provider onboarding and terminations
+Agent assist copilot for Medicare Sales agents to answer member questions instantly by retrieving the right information for many unstructured and structured docs
+GAYATRI JOHAR
+11+ years in Healthcare analytics consulting (EY and PWC)
+Led large analytics deliver projects focusing on - medical cost trend analytics, quality analytics, claims anomaly detection, member segmentation, market access analytics, patient behavior analytics and marketing analytics
+Developed a comprehensive analytical framework to measure medical cost trends (MCT). Leveraged the framework to deliver targeted analytics use cases that can help the client uncover medical and pharmacy cost savings opportunities
+Helped clients measure provider performance to enable transition to value-based care (VBC) contracts
+Led a claim anomaly detection model development enhancing  current process of identification of fraud and recovery
+Developed claim prompt pay prediction model to identify claims that could have a late payment penalty savings millions of dollars
+Designed effective marketing programs and allocation for a major pharma company for their animal drug business.
+--- Slide %s --- 8
+
+%s Our Team – Health Care + Data Science / AI Profiles (3/4)
+HARSHIT KOTHARI
+6+ years of consulting experience serving payers and providers in the US
+Enabled major payers to measure, track, and enhance their facility and professional quality measures
+Developed robust solutions for monitoring and optimizing medical and pharmacy utilization, utilizing extensive knowledge of ICD, CPT, HCPCS, NDC and GPI codes
+Developed HEDIS and Quality analytics capabilities for multiple payers to analyze, forecast and provide insights on gap closure, measure ratings and contract ratings
+Implemented analytical capabilities for a major provider network in the US, significantly improving patient experience, and digital health initiatives
+Created a GenAI based next-generation provider operations capability for a payer, to automate the current manual, and error-prone terminations workflow
+SOWRYA REGANA
+5+ years in Healthcare consulting with focus on payer analytics in building data products and ML systems
+Built frameworks to analyze medical cost and utilization across service/sites of care through multi level mapping for CPT, ICD, HCPCS and Revenue codes
+Built advanced analytical models to identify high-cost members and opportunities for medical cost and utilization improvements
+Developed predictive models to identify the members at cusp of readmission for chronic conditions using advanced ML techniques
+Developing Gen AI solutions to expedite prior auth process, generating Letter of Medical Necessity and identifying auth requirements using NLP techniques.
+NIKHIL PATHIYIL
+4+ years in Healthcare consulting with focus on AI/ML applied to healthcare and pharma.
+Created Hierarchical and Hidden Markov Models for a specialty pharma company to determine optimal promotional channel expenditure and the best sequence of touchpoints to ensure maximum patient enrolments.
+Created a Gen AI application for a Life Sciences revenue management company to enable faster and more accurate responses to support requests.
+Leveraged ICD-10 and SNOMED ontologies to build out a graph database for liver cancer and used Graph ML techniques to identify potential gene mutations and treatment pathways.
+Created ML and biostatistics models and applications to accelerate the RWE analysis lifecycle using EHR data
+--- Slide %s --- 9
+
+%s Our Team – Engineering Focused Profiles (4/4)
+ARUN KUMAR RN
+9+ years of experience in building data-centric products, machine learning systems, and data analytics solutions, specializing in scalable end-to-end ML products across cloud and distributed systems.
+Supported clients across various industries, helping them establish robust AI infrastructures and providing actionable insights to meet their business goals.
+Led the development of an AI foundation for a waste management firm, designing an AWS cloud architecture encompassing DataOps, Data Science, MLOps, and GenAI Ops
+Developed an AutoML platform for a healthcare client to generate ML models using claims, utilization and patient demographics
+Developed an ML platform and deployment framework and worked on multiple models like anomaly detection, root cause analysis, recommendation systems
+SHARATH DESAI
+11 years of diverse experience in data engineering and developing enterprise-grade applications and designing robust architectures.
+Led the design and build of flagship products focused on Data Catalog and Data Quality using AI/ML and integrating ML and LLM Ops for enhanced operational efficiency. 
+Proficient  with big data technologies, utilizing AWS and Azure services to deliver scalable, extensible, and performant solutions.
+Implementing innovative and efficient data engineering practices for various industries like Healthcare, Telecom, Manufacturing and others which involves designing scalable architectures that meet the demands of modern enterprises, ensuring performance and extensibility. 
+AYUSH AGRAWAL
+5+ years of experience in data engineering and advanced analytics, demonstrating expertise in designing, building, and maintaining scalable data pipelines and architectures.
+Extensive experience with cloud platforms and data technologies including AWS, Databricks, dbt and Azure Synapse and ETL tools such as Apache NiFi and AWS Glue
+Assisted clients in integrating modern data technology stacks to handle large volumes of data and enhance data processing capabilities, including designing data lakes, data warehouses, and real-time data processing systems to ensure high performance and reliability
+Developed risk stratification model for Diabetes to understand disease progression stages and identify intervention points 
+Created frameworks to automate the monthly report generation for the key utilization metrics for major US payor
+--- Slide %s --- 10
+
+%s Thank You!
+@2023 AuxoAI – Confidential and Proprietary
+--- Slide %s --- 11
+
+%s Our Team – Pod Lead & Health Care Expert Profiles
+PRERNA SHARMA
+11 years of experience helping healthcare clients in Data, Analytics and AI strategy, roadmap and enablement
+Led data and analytics consulting projects for payor clients in areas such as claims analytics, care management, medical cost analytics, member profiling, STAR rating and analytics strategy
+Helped a payor with a competitive intelligence tool to identify gaps in policy by using NLP to extract codes and coverages in the policy and benchmark with competitor policies
+Led provider consulting engagements in areas of market entry strategies, provider star ratings, patient throughput analytics, procurement and supply chain analytics
+Helped a provider chain identify potential cost savings opportunities of ~$40 M in areas of pharmacy and medical supplies  
+Leading multiple GenAI projects for healthcare clients
+Prior authorization copilot for a large US health system to enable intelligent automation of the prior authorization       
+Automated provider operations workflow using AI and gen AI to enable provider onboarding and terminations
+Agent assist copilot for Medicare Sales agents to answer member questions instantly by retrieving the right information for many unstructured and structured docs
+GAYATRI JOHAR
+11+ years in Healthcare analytics consulting (EY and PWC)
+Led large analytics deliver projects focusing on - medical cost trend analytics, quality analytics, claims anomaly detection, member segmentation, market access analytics, patient behavior analytics and marketing analytics
+Developed a comprehensive analytical framework to measure medical cost trends (MCT). Leveraged the framework to deliver targeted analytics use cases that can help the client uncover medical and pharmacy cost savings opportunities
+Helped clients measure provider performance to enable transition to value-based care (VBC) contracts
+Led a claim anomaly detection model development enhancing  current process of identification of fraud and recovery
+Developed claim prompt pay prediction model to identify claims that could have a late payment penalty savings millions of dollars
+Designed effective marketing programs and allocation for a major pharma company for their animal drug business.
+SATISH TAMMINENI
+16+ years of experience in building analytics capabilities
+Helped healthcare clients in building analytical capabilities across medical cost, value based care, claims, HEDIS / quality ratings, prior auth, provider supply chain, etc.
+Led project related to analytics transformation, delivery model redesign, cloud migration and analytics command centers    
+Led teams to build multiple AI / ML models such as high-cost member prediction, readmission prediction, HEDIS care gap closure prediction, medical policy benchmarking (NLP), Post call satisfaction estimation
+Currently helping a Blue plan enable GenAI solutions to help
+a sales agent answer member questions accurately and timely through an agent assist copilot
+a care agent build post call summary (key issues, care path discussed and follow up actions) by analyzing call transcript  
+Helping a provider build prior auth. (PA) nurse copilot to streamline and automate nurses’ workflow to document all the forms, letter of medical necessity and supporting documents with an objective to increase PA approval rate, timeliness and reduce nurses’ admin work-load

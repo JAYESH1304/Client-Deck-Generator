@@ -1,0 +1,243 @@
+--- Deck 1 ---
+```json
+{
+  "Cover Slide": {
+    "Client name": "ADI",
+    "Project title": "Agentic AI Proposal",
+    "Company branding": "AuxoAI",
+    "Proposal date": "April 2025",
+    "Version": "1.0" 
+  },
+  "Executive Summary": {
+    "Problem Statement": "Current data processes are slow, require specialized skills, and limit data accessibility for non-technical users.",
+    "Opportunity": "Unified self-service platform for data ingestion, transformation, governance, and analytics via multi-agent orchestration, enabling faster time-to-insight and data democratization.",
+    "Unique Position": "AI-powered platform offering a conversational interface for non-technical users, automating tasks across the data lifecycle, and integrating with existing tools (Fivetran, dbt, Snowflake, Dataiku, Atlan/Immuta, Datadog).",
+    "Proposed Outcomes": "Improved data accessibility, faster insights, reduced operational costs, enhanced data governance, improved data quality."
+  },
+  "Client Context & Needs": "TBD",
+  "Our Understanding of the Objectives": "To create a unified self-service data platform that empowers users to access, transform, and analyze data with minimal technical expertise, improving efficiency and data democratization.",
+  "Company Solution Approach": "Developing an AI-powered, multi-agent orchestration platform that integrates with existing tools and uses natural language processing (NLP) to allow users to interact with data using plain English.",
+  "Value Proposition & Business Impact": "Faster time-to-insight, reduced operational costs, improved data quality, enhanced data governance, empowered data-savvy users.",
+  "Engagement Model": "TBD",
+  "Project Plan & Timeline": {
+    "Phase 1": {
+      "duration": "1.5 months",
+      "objectives": "Establish core knowledge base for Fivetran, implement basic NLU for ingestion requests, create fundamental API integration framework.",
+      "deliverables": "Core knowledge base, basic NLU implementation, fundamental API integration framework."
+    },
+    "Phase 2": {
+      "duration": "2 months",
+      "objectives": "AI-based relationship insights, support for top connectors, schema mapping recommendations, monitoring capabilities, AI-based custom connector build.",
+      "deliverables": "AI-based insights, connector support, schema mapping, monitoring dashboard, custom connector capability."
+    },
+    "Phase 3": {
+      "duration": "1 month",
+      "objectives": "Testing, refinement, and final deployment.",
+      "deliverables": "Production-ready agent, user documentation, training module."
+    }
+  },
+  "Commercials / Pricing": "TBD",
+  "Risk Management & Mitigation": "TBD",
+  "Support & Next Steps": "TBD",
+  "About Company": "AuxoAI develops AI-powered data solutions.",
+  "Closing Slide": "Thank you!"
+}
+```
+
+--- Deck 2 ---
+```json
+{
+  "Cover Slide": {
+    "Client name": "ADI",
+    "Project title": "Converse With Data",
+    "Company branding": "AuxoAI",
+    "Proposal date": "April 2025",
+    "Version": "TBD"
+  },
+  "Executive Summary": {
+    "Problem Statement": "Lack of easy data access for non-technical users, leading to slow insights and dependence on IT.",
+    "Opportunity": "Empower all users to access and analyze data through a user-friendly, natural language interface.",
+    "Unique Position": "Multi-agent orchestration platform uniting data ingestion, transformation, governance, and analytics in one conversation-driven platform.",
+    "Proposed Outcomes": "Faster time-to-insight, increased data literacy, reduced reliance on IT for data access, enhanced productivity."
+  },
+  "Client Context & Needs": "TBD",
+  "Our Understanding of the Objectives": "To provide ADI with a self-service data access platform that enables all users to query data using plain English, regardless of their technical skills.",
+  "Company Solution Approach": "A multi-agent orchestration platform, Converse With Data, that uses natural language processing to interpret user queries, orchestrate tasks across data services, and return results in a user-friendly format.",
+  "Value Proposition & Business Impact": "Access to data without SQL expertise, independence in data queries, real-time insights, user-friendly interface, and enhanced productivity.",
+  "Engagement Model": "TBD",
+  "Project Plan & Timeline": {
+    "Phase 1": {
+      "Timeline": "14 Apr’25 to 06 Jun’25",
+      "Activities": [
+        "Architecture and Technical Design",
+        "Setup and Env Access",
+        "Data Discovery, Access and Profiling",
+        "Model Selection and Prompt template design",
+        "Multi agent creation and orchestration",
+        "Deployment(API/UI)",
+        "Setup App DB",
+        "Setup Vector Store",
+        "Semantic search and keyword extraction",
+        "SSO Integration",
+        "Integration testing",
+        "Refinements and optimization",
+        "Testing and validation",
+        "Demo"
+      ],
+      "Deliverables": [
+        "Architecture Design Document",
+        "MVP Converse with Data Application enabled for priority datasets within a domain",
+        "Conversation interface",
+        "Ability to create new conversation",
+        "Ability to expand the responses",
+        "Ability to download the responses",
+        "Ability to store user history",
+        "Ability to leverage context from previous user questions",
+        "Ability to store user feedback",
+        "SSO Integration"
+      ]
+    },
+    "Phase 2": {
+      "Timeline": "09 Jun’25 to 01 Sep’25",
+      "Activities": [
+        "Architecture Enhancements and Design",
+        "Data Access and Profiling for complete use case",
+        "Data setup and modelling",
+        "Prompt template refinement and testing",
+        "SSO integration",
+        "Github and CICD integration",
+        "User feedback",
+        "Output results standardization and refinement",
+        "Integration with Data catalog",
+        "Integration with Data virtualization/ another db",
+        "Standardizing the access controls",
+        "Capturing Usage behaviour and duration stats",
+        "Performance optimization and fine tuning",
+        "Testing and Validation",
+        "UAT"
+      ],
+      "Deliverables":[
+        "Updated Architecture Design Document",
+        "Converse with Data Application enabled for the finalized domain with additional features",
+        "Ability to store user feedback",
+        "Ability to copy prompts",
+        "SSO Integration",
+        "Performance Optimization",
+        "UAT Support",
+        "Roadshow Support"
+      ]
+    }
+  },
+  "Commercials / Pricing": {
+    "Phase 1 Cost": "$100,000",
+    "Phase 2 Cost": "$105,000",
+    "Total Cost": "$205,000",
+    "Budget Calculation Details": {
+      "Total SOWs": "$314,600",
+      "Old adjustment": "$14,000",
+      "Total Kitty": "$328,600",
+      "Actual Burn till date": "$85,250",
+      "Discount during march time": "$3,950",
+      "Remaining": "$239,400",
+      "UDA Burn Projected till week of June 2nd": "$17,400",
+      "Product Manager Projected for 9 weeks": "$72,000",
+      "Remaining amount for other services": "$150,000"
+    }
+  },
+  "Risk Management & Mitigation": "TBD",
+  "Support & Next Steps": {
+    "ADI Support Required": [
+      "Assign a Single Point of Contact (SPOC)",
+      "Provide a Data Subject Matter Expert (SME)",
+      "Access to GenAI Infrastructure and Models",
+      "Database Schema and Metadata Documentation",
+      "Data Preparation and Access",
+      "User Scenarios and Sample Queries"
+    ]
+  },
+  "About Company": "TBD",
+  "Closing Slide": "Thank You!"
+}
+```
+
+--- Deck 3 ---
+```json
+{
+  "Cover Slide": {
+    "Client name": "Aideo Technologies",
+    "Project title": "AI Pod Approach",
+    "Company branding": "@2023 AuxoAI – Confidential and Proprietary",
+    "Proposal date": "June 2024",
+    "Version": "TBD"
+  },
+  "Executive Summary": {
+    "Problem Statement": "Aideo needs to expand product offerings to inpatient services and improve coding accuracy for outpatient services (e.g., Radiology).  They also require a robust and scalable solution architecture.",
+    "Opportunity": "Accelerate Aideo's expansion into inpatient services and improve radiology coding accuracy through a dedicated AI pod.",
+    "Unique Position": "AuxoAI's expertise in healthcare codes, AI, and product development enables faster time to market and higher-value solutions.",
+    "Proposed Outcomes": "Faster time to market for inpatient auto-coding; enhanced radiology auto-coding; continuous business involvement for higher value, adoption, and compliance; development of scalable and flexible products."
+  },
+  "Client Context & Needs": "Aideo helps providers automate medical coding by analyzing physician notes to find relevant evidence for submitting claims.  They currently focus on outpatient services but plan to expand to inpatient services and improve accuracy in areas like Radiology.",
+  "Our Understanding of the Objectives": "Help Aideo expand their product offerings to inpatient services; improve coding accuracy for outpatient services such as Radiology; architect a robust and scalable solution.",
+  "Company Solution Approach": "Forming an AI pod with expertise in healthcare claims, codes, AI, and product development to deliver AI-based autocoding solutions for inpatient departments and enhance radiology autocoding accuracy.",
+  "Value Proposition & Business Impact": "Faster time to market, improved coding accuracy, increased efficiency, reduced administrative burden, scalable and flexible solutions, compliance with industry standards and regulations.",
+  "Engagement Model": "Agile pod with daily stand-ups, sprint planning, retrospectives, and leadership reviews.  Deliverables are produced through design, development, and refinement sprints.",
+  "Project Plan & Timeline": {
+    "Sprints": ["Design Sprints", "Development Sprints", "Refinement Sprints"],
+    "Activities / Deliverables": "User-persona process-map and decision flow; business case, epics, and features; AI model workflow design and architecture; guardrails, governance, security, and regulatory implications; data identification & procurement; model shortlisting; feature development; model training, iterations, and validation; model evaluations; model selection and improvements; model deployment and integration; model monitoring; user feedback; change management & knowledge transfer.",
+    "Sprint Duration": "Each sprint can span across 2-4 weeks depending on scope"
+  },
+  "Commercials / Pricing": "TBD",
+  "Risk Management & Mitigation": "TBD",
+  "Support & Next Steps": "TBD",
+  "About Company": "AuxoAI possesses extensive experience in building analytics capabilities and AI/ML models for healthcare clients, encompassing various areas such as medical cost, value-based care, claims, and quality ratings. The team includes experts in GenAI, NLP, and data engineering.",
+  "Closing Slide": "Thank You! @2023 AuxoAI – Confidential and Proprietary"
+}
+```
+
+--- Deck 4 ---
+```json
+{
+  "Cover Slide": {
+    "Client name": "Aideo Technologies",
+    "Project title": "Data & AI Pod Approach",
+    "Company branding": "@2023 AuxoAI – Confidential and Proprietary",
+    "Proposal date": "June 2024",
+    "Version": "1.2"
+  },
+  "Executive Summary": {
+    "Problem Statement": "Aideo needs to improve coding accuracy for outpatient services (e.g., Radiology) and expand product offerings to inpatient services.  They also require robust and scalable data capabilities for smoother product operations and accelerated analytics and AI capabilities.",
+    "Opportunity": "Accelerate Aideo's journey by leveraging AuxoAI's deep healthcare functional experience and AI and product engineering expertise.",
+    "Unique Position": "AuxoAI offers a cohesive pod with expertise in healthcare, AI, and product engineering, enabling faster time to market and higher value solutions.",
+    "Proposed Outcomes": [
+      "Enhanced radiology auto-coding capability",
+      "Accelerated time to market for inpatient auto-coding capability",
+      "Higher value, adoption, and compliance",
+      "Scalable and reusable architecture components with incremental features engineering and product delivery"
+    ]
+  },
+  "Client Context & Needs": "Aideo helps providers automate medical coding by analyzing physician notes in EHRs.  They aim to improve coding accuracy for outpatient services and expand to inpatient services.  They need to improve data capabilities and accelerate AI development.",
+  "Our Understanding of the Objectives": "Aideo's near-term objectives include improving coding accuracy for outpatient services like Radiology, expanding product offerings to inpatient services, and deploying robust and scalable data capabilities.",
+  "Company Solution Approach": "A dedicated Data & AI pod will accelerate Aideo’s journey by combining healthcare functional expertise, AI, and product engineering.  This pod will focus on developing AI-based auto-coding solutions for prioritized inpatient departments, streamlining data processes, and building specialized models leveraging GenAI and NLP.",
+  "Value Proposition & Business Impact": "Improved coding accuracy, faster time to market for inpatient auto-coding, higher value and adoption, scalable and reusable architecture, and reduced administrative burden on healthcare professionals.",
+  "Engagement Model": "Agile pod with daily stand-ups, sprint planning, retrospectives, and leadership reviews.  Iterative delivery model using design, development, and refinement sprints.",
+  "Project Plan & Timeline": "Iterative delivery model with 2-4 week sprints. Activities include user-persona process mapping, business case development, AI model workflow design, data identification and procurement, model training and validation, deployment, and integration.  Specific timelines TBD.",
+  "Commercials / Pricing": "TBD",
+  "Risk Management & Mitigation": "TBD (Questions on Slide 6 address potential risks related to PHI access, data availability, and contract variations.)",
+  "Support & Next Steps": "TBD (Further discussion needed to address questions on Slide 6 regarding timeline, stakeholder alignment, resource allocation, PHI access, integration with Aideo's Gemini platform, data sharing, and contract type considerations.)",
+  "About Company": {
+    "AuxoAI Strengths": [
+      "Agile",
+      "Speed to delivery",
+      "Start-up mindset",
+      "Talent",
+      "Nimble",
+      "AI-first",
+      "Hypergrowth journey",
+      "End-to-end support"
+    ],
+    "Team Expertise": "AuxoAI's team possesses extensive experience in healthcare data and analytics, AI/ML model development, data engineering, and cloud architecture.  Detailed profiles provided on slides 7-10."
+  },
+  "Closing Slide": "Thank you!"
+}
+```
+
