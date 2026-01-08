@@ -1,4 +1,4 @@
-# Auxothon - AI Proposal Deck Generator
+#  AI Client Proposal Deck Generator
 
 This project is a CLI-driven assistant that helps create professional proposal decks with AI support (Gemini). It also includes optional utilities for structuring decks into JSON and storing/querying them in Neo4j.
 
