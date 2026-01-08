@@ -1,0 +1,82 @@
+
+--- Deck 3 ---
+```json
+{
+  "Cover Slide": {
+    "Client name": "Aideo Technologies",
+    "Project title": "AI Pod Approach",
+    "Company branding": "@2023 AuxoAI – Confidential and Proprietary",
+    "Proposal date": "June 2024",
+    "Version": "TBD"
+  },
+  "Executive Summary": {
+    "Problem Statement": "Aideo needs to expand product offerings to inpatient services and improve coding accuracy for outpatient services (e.g., Radiology).  They also require a robust and scalable solution architecture.",
+    "Opportunity": "Accelerate Aideo's expansion into inpatient services and improve radiology coding accuracy through a dedicated AI pod.",
+    "Unique Position": "AuxoAI's expertise in healthcare codes, AI, and product development enables faster time to market and higher-value solutions.",
+    "Proposed Outcomes": "Faster time to market for inpatient auto-coding; enhanced radiology auto-coding; continuous business involvement for higher value, adoption, and compliance; development of scalable and flexible products."
+  },
+  "Client Context & Needs": "Aideo helps providers automate medical coding by analyzing physician notes to find relevant evidence for submitting claims.  They currently focus on outpatient services but plan to expand to inpatient services and improve accuracy in areas like Radiology.",
+  "Our Understanding of the Objectives": "Help Aideo expand their product offerings to inpatient services; improve coding accuracy for outpatient services such as Radiology; architect a robust and scalable solution.",
+  "Company Solution Approach": "Forming an AI pod with expertise in healthcare claims, codes, AI, and product development to deliver AI-based autocoding solutions for inpatient departments and enhance radiology autocoding accuracy.",
+  "Value Proposition & Business Impact": "Faster time to market, improved coding accuracy, increased efficiency, reduced administrative burden, scalable and flexible solutions, compliance with industry standards and regulations.",
+  "Engagement Model": "Agile pod with daily stand-ups, sprint planning, retrospectives, and leadership reviews.  Deliverables are produced through design, development, and refinement sprints.",
+  "Project Plan & Timeline": {
+    "Sprints": ["Design Sprints", "Development Sprints", "Refinement Sprints"],
+    "Activities / Deliverables": "User-persona process-map and decision flow; business case, epics, and features; AI model workflow design and architecture; guardrails, governance, security, and regulatory implications; data identification & procurement; model shortlisting; feature development; model training, iterations, and validation; model evaluations; model selection and improvements; model deployment and integration; model monitoring; user feedback; change management & knowledge transfer.",
+    "Sprint Duration": "Each sprint can span across 2-4 weeks depending on scope"
+  },
+  "Commercials / Pricing": "TBD",
+  "Risk Management & Mitigation": "TBD",
+  "Support & Next Steps": "TBD",
+  "About Company": "AuxoAI possesses extensive experience in building analytics capabilities and AI/ML models for healthcare clients, encompassing various areas such as medical cost, value-based care, claims, and quality ratings. The team includes experts in GenAI, NLP, and data engineering.",
+  "Closing Slide": "Thank You! @2023 AuxoAI – Confidential and Proprietary"
+}
+```
+
+--- Deck 4 ---
+```json
+{
+  "Cover Slide": {
+    "Client name": "Aideo Technologies",
+    "Project title": "Data & AI Pod Approach",
+    "Company branding": "@2023 AuxoAI – Confidential and Proprietary",
+    "Proposal date": "June 2024",
+    "Version": "1.2"
+  },
+  "Executive Summary": {
+    "Problem Statement": "Aideo needs to improve coding accuracy for outpatient services (e.g., Radiology) and expand product offerings to inpatient services.  They also require robust and scalable data capabilities for smoother product operations and accelerated analytics and AI capabilities.",
+    "Opportunity": "Accelerate Aideo's journey by leveraging AuxoAI's deep healthcare functional experience and AI and product engineering expertise.",
+    "Unique Position": "AuxoAI offers a cohesive pod with expertise in healthcare, AI, and product engineering, enabling faster time to market and higher value solutions.",
+    "Proposed Outcomes": [
+      "Enhanced radiology auto-coding capability",
+      "Accelerated time to market for inpatient auto-coding capability",
+      "Higher value, adoption, and compliance",
+      "Scalable and reusable architecture components with incremental features engineering and product delivery"
+    ]
+  },
+  "Client Context & Needs": "Aideo helps providers automate medical coding by analyzing physician notes in EHRs.  They aim to improve coding accuracy for outpatient services and expand to inpatient services.  They need to improve data capabilities and accelerate AI development.",
+  "Our Understanding of the Objectives": "Aideo's near-term objectives include improving coding accuracy for outpatient services like Radiology, expanding product offerings to inpatient services, and deploying robust and scalable data capabilities.",
+  "Company Solution Approach": "A dedicated Data & AI pod will accelerate Aideo’s journey by combining healthcare functional expertise, AI, and product engineering.  This pod will focus on developing AI-based auto-coding solutions for prioritized inpatient departments, streamlining data processes, and building specialized models leveraging GenAI and NLP.",
+  "Value Proposition & Business Impact": "Improved coding accuracy, faster time to market for inpatient auto-coding, higher value and adoption, scalable and reusable architecture, and reduced administrative burden on healthcare professionals.",
+  "Engagement Model": "Agile pod with daily stand-ups, sprint planning, retrospectives, and leadership reviews.  Iterative delivery model using design, development, and refinement sprints.",
+  "Project Plan & Timeline": "Iterative delivery model with 2-4 week sprints. Activities include user-persona process mapping, business case development, AI model workflow design, data identification and procurement, model training and validation, deployment, and integration.  Specific timelines TBD.",
+  "Commercials / Pricing": "TBD",
+  "Risk Management & Mitigation": "TBD (Questions on Slide 6 address potential risks related to PHI access, data availability, and contract variations.)",
+  "Support & Next Steps": "TBD (Further discussion needed to address questions on Slide 6 regarding timeline, stakeholder alignment, resource allocation, PHI access, integration with Aideo's Gemini platform, data sharing, and contract type considerations.)",
+  "About Company": {
+    "AuxoAI Strengths": [
+      "Agile",
+      "Speed to delivery",
+      "Start-up mindset",
+      "Talent",
+      "Nimble",
+      "AI-first",
+      "Hypergrowth journey",
+      "End-to-end support"
+    ],
+    "Team Expertise": "AuxoAI's team possesses extensive experience in healthcare data and analytics, AI/ML model development, data engineering, and cloud architecture.  Detailed profiles provided on slides 7-10."
+  },
+  "Closing Slide": "Thank you!"
+}
+```
+

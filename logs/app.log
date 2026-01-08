@@ -1,0 +1,126 @@
+2025-09-07 20:12:11,296 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:12:11,298 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:12:11,299 - proposal_agent - INFO - Loaded and updated existing proposal memory
+2025-09-07 20:12:11,299 - proposal_agent - INFO - Proposal agent initialized for Acme Logistics
+2025-09-07 20:12:51,780 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:12:51,780 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:21:02,945 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:21:02,966 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:21:02,987 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:21:02,987 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:21:02,988 - proposal_agent - INFO - Proposal agent initialized for Test Corp
+2025-09-07 20:21:02,991 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:21:02,992 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:21:02,994 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:21:02,994 - proposal_agent - INFO - Added component: Risk Management & Mitigation
+2025-09-07 20:21:02,994 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:21:03,013 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:21:03,014 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:21:03,014 - proposal_agent - INFO - Proposal agent initialized for Test Client
+2025-09-07 20:21:25,626 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:21:25,627 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:22:00,455 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:22:00,463 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:22:00,488 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:22:00,489 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:22:00,489 - proposal_agent - INFO - Proposal agent initialized for Test Corp
+2025-09-07 20:22:00,492 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:22:00,493 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:22:00,494 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:22:00,494 - proposal_agent - INFO - Added component: Risk Management & Mitigation
+2025-09-07 20:22:00,495 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:22:00,514 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:22:00,514 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:22:00,514 - proposal_agent - INFO - Proposal agent initialized for Test Client
+2025-09-07 20:22:08,224 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:22:08,225 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:29:25,302 - ai_generator - WARNING - No API key provided - running in fallback mode
+2025-09-07 20:29:25,307 - ai_generator - WARNING - No API key provided - running in fallback mode
+2025-09-07 20:29:25,326 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:29:25,327 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:29:25,327 - proposal_agent - INFO - Proposal agent initialized for Test Corp
+2025-09-07 20:29:25,329 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:29:25,329 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:29:25,330 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:29:25,331 - proposal_agent - INFO - Added component: Risk Management & Mitigation
+2025-09-07 20:29:25,333 - ai_generator - WARNING - No API key provided - running in fallback mode
+2025-09-07 20:29:25,351 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:29:25,352 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:29:25,352 - proposal_agent - INFO - Proposal agent initialized for Test Client
+2025-09-07 20:29:25,355 - ai_generator - INFO - Using fallback content generation
+2025-09-07 20:29:32,441 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:29:32,442 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:42:56,997 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:42:57,003 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:42:57,025 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:42:57,025 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:42:57,026 - proposal_agent - INFO - Proposal agent initialized for Test Corp
+2025-09-07 20:42:57,028 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:42:57,028 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:42:57,029 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:42:57,029 - proposal_agent - INFO - Added component: Risk Management & Mitigation
+2025-09-07 20:42:57,030 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:42:57,045 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:42:57,046 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:42:57,046 - proposal_agent - INFO - Proposal agent initialized for Test Client
+2025-09-07 20:43:07,424 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:43:07,424 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:56:18,104 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:56:18,117 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:56:18,132 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:56:18,133 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:56:18,133 - proposal_agent - INFO - Proposal agent initialized for Test Corp
+2025-09-07 20:56:18,135 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:56:18,136 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:56:18,137 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:56:18,137 - proposal_agent - INFO - Added component: Risk Management & Mitigation
+2025-09-07 20:56:18,138 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:56:18,154 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:56:18,155 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:56:18,155 - proposal_agent - INFO - Proposal agent initialized for Test Client
+2025-09-07 20:56:25,126 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:56:25,127 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:56:48,274 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:56:48,301 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:56:48,301 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:56:48,301 - proposal_agent - INFO - Proposal agent initialized for TechCorp Industries
+2025-09-07 20:57:09,835 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:57:09,835 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 20:57:12,644 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:57:12,645 - proposal_agent - INFO - Generated slide 'Executive Summary' (1858 characters)
+2025-09-07 20:57:16,125 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:57:16,126 - proposal_agent - INFO - Generated slide 'Solution Approach' (2237 characters)
+2025-09-07 20:57:18,617 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:57:18,617 - proposal_agent - INFO - Generated slide 'Value Proposition & Business Impact' (1551 characters)
+2025-09-07 20:59:30,069 - ai_generator - INFO - AI Generator initialized successfully with model: gemini-1.5-flash
+2025-09-07 20:59:30,099 - memory_manager - INFO - Memory loaded successfully from proposal_agent_memory.json
+2025-09-07 20:59:30,100 - proposal_agent - INFO - Created new proposal memory
+2025-09-07 20:59:30,101 - proposal_agent - INFO - Proposal agent initialized for Acme Logistics
+2025-09-07 20:59:45,071 - memory_manager - INFO - Memory saved successfully
+2025-09-07 20:59:45,072 - proposal_agent - INFO - Solution finalized successfully
+2025-09-07 21:01:01,150 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:01:01,151 - proposal_agent - INFO - Added component: Client Context & Needs
+2025-09-07 21:01:03,992 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:01:03,992 - proposal_agent - INFO - Generated slide 'Client Context & Needs' (1863 characters)
+2025-09-07 21:01:32,194 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:01:32,195 - proposal_agent - INFO - Added component: About Company
+2025-09-07 21:01:35,412 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:01:35,413 - proposal_agent - INFO - Generated slide 'About Company' (2125 characters)
+2025-09-07 21:02:10,694 - proposal_agent - INFO - Starting full deck generation
+2025-09-07 21:02:11,652 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:11,653 - proposal_agent - INFO - Generated slide 'Cover Slide' (212 characters)
+2025-09-07 21:02:15,340 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:15,341 - proposal_agent - INFO - Generated slide 'Executive Summary' (2140 characters)
+2025-09-07 21:02:18,307 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:18,308 - proposal_agent - INFO - Generated slide 'Client Context & Needs' (1600 characters)
+2025-09-07 21:02:21,893 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:21,894 - proposal_agent - INFO - Generated slide 'Solution Approach' (1963 characters)
+2025-09-07 21:02:25,170 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:25,170 - proposal_agent - INFO - Generated slide 'Value Proposition & Business Impact' (1524 characters)
+2025-09-07 21:02:29,268 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:29,269 - proposal_agent - INFO - Generated slide 'Commercials / Pricing' (2035 characters)
+2025-09-07 21:02:32,544 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:32,545 - proposal_agent - INFO - Generated slide 'About Company' (1923 characters)
+2025-09-07 21:02:35,204 - memory_manager - INFO - Memory saved successfully
+2025-09-07 21:02:35,206 - proposal_agent - INFO - Generated slide 'Closing Slide' (1178 characters)
+2025-09-07 21:02:35,708 - proposal_agent - INFO - Full deck generation completed: 8 slides
